@@ -4,7 +4,7 @@
 
 @media (min-width: 1110px) {
   .hero {
-    background: url('/desktop/image-hero-left.png') no-repeat center left -34px,
-      url('/desktop/image-hero-right.png') no-repeat center right -34px;
+    background: url('/desktop/image-hero-left.png') no-repeat top left -34px,
+      url('/desktop/image-hero-right.png') no-repeat top right -34px;
   }
 }
